@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "655c2ca41c2b01ce45fb8a59"
+  },
+  "name": "78378",
+  "age": 783783,
+  "phone": "123465",
+  "sex": "男",
+  "path": "http://localhost:3000/upload\\8JW22JkDUh9BQE1yqJI3uRXU.png",
+  "proid": {
+    "$oid": "655b43fc021c616e29c9b896"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655dd79ca2a9b4b32dc03d80"
+  },
+  "name": "5555",
+  "age": 555,
+  "phone": "555",
+  "sex": "11111555",
+  "path": "http://localhost:3000/upload\\3N9gRTdpl-Pzt7cy4kg0kwrH.png",
+  "proid": {
+    "$oid": "655c8331c6993faca3cd3ead"
+  },
+  "__v": 0,
+  "city": {
+    "$oid": "655c82b9965cec498cdbdd7e"
+  }
+},
+{
+  "_id": {
+    "$oid": "655f37b3e899562606126fbb"
+  },
+  "name": "123",
+  "age": 123,
+  "phone": "123",
+  "sex": "123",
+  "path": "http://localhost:3000/upload\\RHc58_jG34GPypZ2j59qQvq1.png",
+  "proid": {
+    "$oid": "655c830bb6ffdaaeba0e97af"
+  },
+  "__v": 0
+}]

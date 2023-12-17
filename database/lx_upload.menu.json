@@ -1,0 +1,441 @@
+[{
+  "_id": {
+    "$oid": "655c526f1054b1495cf0dcc8"
+  },
+  "name": "工作台",
+  "level": "1",
+  "url": "staging",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c52981054b1495cf0dcca"
+  },
+  "name": "用户",
+  "level": "1",
+  "url": "user",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c52ac1054b1495cf0dccc"
+  },
+  "name": "业务",
+  "level": "1",
+  "url": "business",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c52c61054b1495cf0dcce"
+  },
+  "name": "内容",
+  "level": "1",
+  "url": "content",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c52f31054b1495cf0dcd0"
+  },
+  "name": "移动端",
+  "level": "1",
+  "url": "mobile",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c530d1054b1495cf0dcd2"
+  },
+  "name": "图像",
+  "level": "1",
+  "url": "stat",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c533a1054b1495cf0dcd4"
+  },
+  "name": "工具",
+  "level": "1",
+  "url": "tool",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c53541054b1495cf0dcd6"
+  },
+  "name": "应用",
+  "level": "1",
+  "url": "jobfair",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c537d1054b1495cf0dcd8"
+  },
+  "name": "系统",
+  "level": "1",
+  "url": "sys",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c53e90896439bafcc336d"
+  },
+  "name": "管理中心",
+  "level": "2",
+  "url": "dashboard",
+  "pid": {
+    "$oid": "655c526f1054b1495cf0dcc8"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c54620896439bafcc336f"
+  },
+  "name": "会员管理",
+  "level": "2",
+  "url": "member",
+  "pid": {
+    "$oid": "655c52981054b1495cf0dcca"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c548a0896439bafcc3371"
+  },
+  "name": "个人简历管理",
+  "level": "2",
+  "url": "urm",
+  "pid": {
+    "$oid": "655c52981054b1495cf0dcca"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c54df0896439bafcc3373"
+  },
+  "name": "企业名录",
+  "level": "2",
+  "url": "business_directory",
+  "pid": {
+    "$oid": "655c52981054b1495cf0dcca"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c55210896439bafcc3375"
+  },
+  "name": "企业信息管理",
+  "level": "2",
+  "url": "enterprise_information",
+  "pid": {
+    "$oid": "655c52981054b1495cf0dcca"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c556f0896439bafcc3377"
+  },
+  "name": "职位信息管理",
+  "level": "2",
+  "url": "p_i_management",
+  "pid": {
+    "$oid": "655c52981054b1495cf0dcca"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c55a70896439bafcc3379"
+  },
+  "name": "账号注销申请",
+  "level": "2",
+  "url": "account_cancellation_request",
+  "pid": {
+    "$oid": "655c52981054b1495cf0dcca"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c560f0896439bafcc337b"
+  },
+  "name": "广告管理",
+  "level": "2",
+  "url": "advertising_management",
+  "pid": {
+    "$oid": "655c52c61054b1495cf0dcce"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c56310896439bafcc337d"
+  },
+  "name": "公告管理",
+  "level": "2",
+  "url": "notice",
+  "pid": {
+    "$oid": "655c52c61054b1495cf0dcce"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c56440896439bafcc337f"
+  },
+  "name": "咨询管理",
+  "level": "2",
+  "url": "article",
+  "pid": {
+    "$oid": "655c52c61054b1495cf0dcce"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c566c0896439bafcc3381"
+  },
+  "name": "说明页管理",
+  "level": "2",
+  "url": "explain",
+  "pid": {
+    "$oid": "655c52c61054b1495cf0dcce"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c56830896439bafcc3383"
+  },
+  "name": "Hr工具箱",
+  "level": "2",
+  "url": "hrtool",
+  "pid": {
+    "$oid": "655c52c61054b1495cf0dcce"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c56a60896439bafcc3385"
+  },
+  "name": "友情连接列表",
+  "level": "2",
+  "url": "flink",
+  "pid": {
+    "$oid": "655c52c61054b1495cf0dcce"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c56c30896439bafcc3387"
+  },
+  "name": "帮助中心",
+  "level": "2",
+  "url": "help",
+  "pid": {
+    "$oid": "655c52c61054b1495cf0dcce"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c56db0896439bafcc3389"
+  },
+  "name": "账号申诉",
+  "level": "2",
+  "url": "appeal",
+  "pid": {
+    "$oid": "655c52c61054b1495cf0dcce"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c56eb0896439bafcc338b"
+  },
+  "name": "投诉建议",
+  "level": "2",
+  "url": "feedback",
+  "pid": {
+    "$oid": "655c52c61054b1495cf0dcce"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c57960896439bafcc338d"
+  },
+  "name": "基础配置",
+  "level": "2",
+  "url": "basic",
+  "pid": {
+    "$oid": "655c537d1054b1495cf0dcd8"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c57af0896439bafcc338f"
+  },
+  "name": "分类配置",
+  "level": "2",
+  "url": "category",
+  "pid": {
+    "$oid": "655c537d1054b1495cf0dcd8"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c57da0896439bafcc3391"
+  },
+  "name": "企业业务配置",
+  "level": "2",
+  "url": "company",
+  "pid": {
+    "$oid": "655c537d1054b1495cf0dcd8"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c57ee0896439bafcc3393"
+  },
+  "name": "个人业务配置",
+  "level": "2",
+  "url": "personal",
+  "pid": {
+    "$oid": "655c537d1054b1495cf0dcd8"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c58050896439bafcc3395"
+  },
+  "name": "微信平台配置",
+  "level": "2",
+  "url": "wechat",
+  "pid": {
+    "$oid": "655c537d1054b1495cf0dcd8"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c58160896439bafcc3397"
+  },
+  "name": "系统管理员",
+  "level": "2",
+  "url": "admin",
+  "pid": {
+    "$oid": "655c537d1054b1495cf0dcd8"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c58290896439bafcc3399"
+  },
+  "name": "系统日志",
+  "level": "2",
+  "url": "log",
+  "pid": {
+    "$oid": "655c537d1054b1495cf0dcd8"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c58660896439bafcc339b"
+  },
+  "name": "企业会员",
+  "level": "3",
+  "url": "corporate_member",
+  "pid": {
+    "$oid": "655c54620896439bafcc336f"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c58820896439bafcc339d"
+  },
+  "name": "个人会员",
+  "level": "3",
+  "url": "individual_member",
+  "pid": {
+    "$oid": "655c54620896439bafcc336f"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c589f0896439bafcc339f"
+  },
+  "name": "无效会员",
+  "level": "3",
+  "url": "Invalid_member",
+  "pid": {
+    "$oid": "655c54620896439bafcc336f"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c58d40896439bafcc33a1"
+  },
+  "name": "广告列表",
+  "level": "3",
+  "url": "List_of_ads",
+  "pid": {
+    "$oid": "655c560f0896439bafcc337b"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c58f10896439bafcc33a3"
+  },
+  "name": "广告位",
+  "level": "3",
+  "url": "advertising_position",
+  "pid": {
+    "$oid": "655c560f0896439bafcc337b"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c59500896439bafcc33a5"
+  },
+  "name": "角色权限管理",
+  "level": "3",
+  "url": "Role_permission_management",
+  "pid": {
+    "$oid": "655c58160896439bafcc3397"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ca6d44803c0feb2092531"
+  },
+  "url": "role_permission_management",
+  "level": "3",
+  "name": "角色权限管理",
+  "__v": 0,
+  "pid": {
+    "$oid": "655c58160896439bafcc3397"
+  }
+}]
